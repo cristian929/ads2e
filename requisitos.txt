@@ -1,0 +1,5 @@
+
+
+
+O sistema deve calcular a rota do passageiro para poder gerar um valor preciso,selecionar o carro mais proximo do mesmo
+falar o tempo de viagem e avaliaçao do carro sobre suas revisoes para nao gerar algum problema na viagem

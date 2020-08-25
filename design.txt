@@ -1,0 +1,6 @@
+o aplicativo sera apra aparelho mobile 
+com suporte a Android e Apple.
+O usuario deve ter acesso a rede wifi ou dados moveis para soliciar o acesso aos veiculos
+dowload do progama é de 1gb
+design do aplicatiro tera uma interface de facil entendimento para todas as idades.
+icones com facil localização e comando de voz ativos

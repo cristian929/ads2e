@@ -1,0 +1,4 @@
+O cliente entra com seu cadastro no aplicativo
+seleciona o endereço no qual deseja ir e solicita o carro mais perto disponivel para viagem
+podendo selecionar o metodo de pagamento mais acessivel ao cliente.
+Ao acessar o veiculo o cliente vera em sua tela a rota disponivel,o tempo de percurso,uma tela sobre os comentarios do seu motorista com todos seus dados 
